@@ -22,6 +22,14 @@ class UserTableSeeder extends Seeder
                 "email_verified_at" => now(),
                 "created_at" => now(),
                 "updated_at" => now(),
+            ],
+            [
+                "name" => "Shandi Maulana",
+                "nbi" => "1461900160",
+                "password" => bcrypt("password"),
+                "email_verified_at" => now(),
+                "created_at" => now(),
+                "updated_at" => now(),
             ]
         ];
 
