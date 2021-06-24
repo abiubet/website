@@ -17,37 +17,37 @@ class MataKuliahTableSeeder extends Seeder
         $matakuliah = [
             [
                 "name"       => "Interaksi Manusia Komputer",
-                "dosen"        => "Anang",
+                "dosen"        => "Anang Pramono, S.Kom, M.M",
                 "created_at" => now(),
                 "updated_at" => now(),
             ],
             [
                 "name"       => "Rekayasa Perangkat Lunak",
-                "dosen"      => "Aris",
+                "dosen"      => "Aris Sudaryanto, S.St, MT",
                 "created_at" => now(),
                 "updated_at" => now(),
             ],
             [
                 "name"       => "Kalkulus",
-                "dosen"      => "Habib",
+                "dosen"      => "Ahmad Habib, S.Kom, M.M ",
                 "created_at" => now(),
                 "updated_at" => now(),
             ],
             [
                 "name" => "Pengembangan Teknologi Web",
-                "dosen" => "Elsen",
+                "dosen" => "Elsen Ronando, S.Si., M.Si., M.Sc",
                 "created_at" => now(),
                 "updated_at" => now(),
             ],
             [
                 "name" => "Aristektur Organisasi Komputer",
-                "dosen" => "Elvianto",
+                "dosen" => "Elvianto Dwi Hartono, ST, M.Kom, M.M",
                 "created_at" => now(),
                 "updated_at" => now(),
             ],
             [
                 "name" => "Manajemen Proyek Perangkat Lunak",
-                "day" => "Aidil",
+                "day" => "Aidil Primasetya Armin, S.ST, MT.",
                 "created_at" => now(),
                 "updated_at" => now(),
             ],
